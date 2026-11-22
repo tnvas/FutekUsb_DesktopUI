@@ -1,0 +1,6 @@
+[Details]
+  Icon = "build/icon.png"
+  Name = "UsbSens3"
+  ID = "com.futek.usbsens3"
+  Version = "2.0.0"
+  Build = 204
